@@ -33,8 +33,8 @@ $ php artisan serve
 
 ## Login Credential
 ```
-Username: admin@admin.com
-Password: password
+Username: ada di database->migrate->seeders->UserSeeder.php
+Password: ada di database->migrate->seeders->UserSeeder.php
 ```
 
 ## Dotenv Configuration
